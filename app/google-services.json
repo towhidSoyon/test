@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "645522040070",
+    "project_id": "frbase-fba66",
+    "storage_bucket": "frbase-fba66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645522040070:android:cd7a6916d1af1ee177aa87",
+        "android_client_info": {
+          "package_name": "com.example.frbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645522040070-dp9gt4h950nbn5ubk8fh9m0v4cl4rmd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlqITTAckYqIfPWQtXkdkN6Me_5P_PxRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645522040070-dp9gt4h950nbn5ubk8fh9m0v4cl4rmd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
